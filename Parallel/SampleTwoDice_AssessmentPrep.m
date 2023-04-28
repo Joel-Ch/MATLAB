@@ -1,4 +1,4 @@
-% Determining the different numbers two die can roll
+% Determining the different numbers two dice can roll
 
 % Clear all the variables before we start
 clear;
