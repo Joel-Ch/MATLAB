@@ -54,6 +54,7 @@ fprintf("The probability of throwing a %d is %f %%\n", Throw, Probability);
 
 % End of code
 
+
 function Num = AskForRealNum(VarName)
 
     NumStr= input("Enter a real, numerical number for "+ VarName +": ", "s");
